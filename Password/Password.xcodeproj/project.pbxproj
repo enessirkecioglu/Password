@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		893CC393287874F00014E666 /* PasswordStatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 893CC392287874F00014E666 /* PasswordStatusView.swift */; };
 		896DA344287619EB00CED00A /* PasswordCriteriaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896DA343287619EB00CED00A /* PasswordCriteriaView.swift */; };
 		89A8E832286E4AF7002A61C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A8E831286E4AF7002A61C1 /* AppDelegate.swift */; };
 		89A8E836286E4AF7002A61C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A8E835286E4AF7002A61C1 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		893CC392287874F00014E666 /* PasswordStatusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordStatusView.swift; sourceTree = "<group>"; };
 		896DA343287619EB00CED00A /* PasswordCriteriaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordCriteriaView.swift; sourceTree = "<group>"; };
 		89A8E82E286E4AF7002A61C1 /* Password.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Password.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89A8E831286E4AF7002A61C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -41,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				896DA343287619EB00CED00A /* PasswordCriteriaView.swift */,
+				893CC392287874F00014E666 /* PasswordStatusView.swift */,
 			);
 			path = PasswordStatusView;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				89A8E836286E4AF7002A61C1 /* ViewController.swift in Sources */,
 				89A8E832286E4AF7002A61C1 /* AppDelegate.swift in Sources */,
 				896DA344287619EB00CED00A /* PasswordCriteriaView.swift in Sources */,
+				893CC393287874F00014E666 /* PasswordStatusView.swift in Sources */,
 				89A8E849286E4D2B002A61C1 /* PasswordTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
